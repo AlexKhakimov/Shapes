@@ -1,0 +1,7 @@
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\obj\Debug\Shape.Test.csprojResolveAssemblyReference.cache
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\bin\Debug\Shape.Test.dll
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\bin\Debug\Shape.Test.pdb
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\bin\Debug\Shapes.dll
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\bin\Debug\Shapes.pdb
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\obj\Debug\Shape.Test.dll
+C:\Users\finprog\Documents\Visual Studio 2012\Projects\Shapes\Shape.Test\obj\Debug\Shape.Test.pdb
